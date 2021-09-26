@@ -1,3 +1,5 @@
+/* member data styles  */
+
 .member {
   height: 500px;
   width: 450px;
@@ -10,7 +12,7 @@
   border-radius: 200px;
   margin-top: 30px;
 }
-
+/* card styles  */
 .card-custom-styles {
   color: #4a5d91;
   transition: 0.3s;
@@ -23,6 +25,7 @@
   background-color: rgb(228, 228, 228);
   padding: 3px;
 }
+/* button styles  */
 .button {
   border: 1px solid rgb(173, 184, 184);
   border-radius: 20px;
