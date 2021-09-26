@@ -1,0 +1,18 @@
+/* header area style  */
+.header {
+  /* custom colors  */
+
+  background-color: azure;
+  width: 100%;
+  height: 550px;
+  color: #4a5d91;
+  box-shadow: 12px 12px 16px rgb(204 202 202 / 82%);
+}
+
+.header h1 {
+  font-size: 70px;
+}
+.header img {
+  height: 250px;
+  width: 500px;
+}
